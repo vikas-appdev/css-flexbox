@@ -81,3 +81,14 @@ h1 {
     height: 200px;
 }
 ```
+
+#### Justify Content
+
+How the content distributed around the main axis
+
+    - justify-content: flex-start;
+    - justify-content: flex-end;
+    - justify-content: center;
+    - justify-content: space-between;
+    - justify-content: space-around;
+    - justify-content: space-evenly;
