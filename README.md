@@ -12,3 +12,8 @@
 
 ### Introduction to CSS Flexbox
 
+#### What is it?
+
+Flexbox is a one-dimensional layout method for laying out items in rows or columns.
+
+Flexbox is a recent addition to CSS included to address common layout frustratation.
