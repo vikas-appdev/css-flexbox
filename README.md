@@ -92,3 +92,41 @@ How the content distributed around the main axis
     - justify-content: space-between;
     - justify-content: space-around;
     - justify-content: space-evenly;
+
+### Flex Wrap
+
+flex-wrap: 
+    - wrap
+    - wrap-reverse
+    - nowrap
+
+### Align Items
+align-item:
+    - flex-start
+    - flex-end
+    - center
+    - baseline
+    
+### Align Content
+align-content
+    - space-between
+    - center
+    - wrap
+
+### Align Self
+align-self:
+    - flex-end
+
+
+## Flex Sizing 
+
+- flex basis 
+    Defines the initial size of an element before additional space is distributed
+
+- flex grow
+     COntrols the amount of available space on an element should take up.
+     Accepts a unit less no. volume
+
+- flex shrink
+    If items are larger than the container, they shrink according to flex-shrink.
+
